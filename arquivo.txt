@@ -1,3 +1,7 @@
 MEU ARQUIVOXX
 
 nova alteraçao no status do <i class="fa fa-git" aria-hidden="true"></i>
+
+
+
+alteração pela branch novo
